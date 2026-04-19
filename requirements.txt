@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+yfinance
+xgboost
+torch
+requests
+web3
+eth-account
+jupyter
